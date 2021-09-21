@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/Osumi-Akari/titlewindow.git",
   "author": "Osumi Akari",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^14.0.1"
+  }
 }
