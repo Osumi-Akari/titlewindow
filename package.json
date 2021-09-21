@@ -1,0 +1,9 @@
+{
+  "name": "titlewindow",
+  "version": "1.0.0",
+  "description": "Chenge the Windows name",
+  "main": "index.js",
+  "repository": "https://github.com/Osumi-Akari/titlewindow.git",
+  "author": "Osumi Akari",
+  "license": "MIT"
+}
