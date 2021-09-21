@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <title id="windowtitle">none</title>
+</head>
+
+<body>
+    <label>
+        <input type="text" id="inputForm" onkeyup="inputCheck()">
+    </label>
+</body>
+
+<script>
+    function inputCheck() {
+        var inputValue = document.getElementById("inputForm").value;
+        document.getElementById("windowtitle").innerHTML = inputValue;
+    }
+</script>
