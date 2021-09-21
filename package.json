@@ -7,6 +7,10 @@
   "author": "Osumi Akari",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^14.0.1"
+    "electron": "^14.0.1",
+    "electron-builder": "^22.11.7"
+  },
+  "scripts": {
+    "start": "electron ."
   }
 }
